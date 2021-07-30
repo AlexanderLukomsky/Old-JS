@@ -9,6 +9,8 @@ import reportWebVitals from './reportWebVitals';
 // let a = lesson_01
 // let b = student
 // let c = ages
+import { people } from './lesson/05_map/05'
+const d = people
 ReactDOM.render(
   <React.StrictMode>
     <App />
